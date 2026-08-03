@@ -117,20 +117,11 @@ knowing which subsystem to wake, when to act without asking, and when to stay qu
 
 ## 📊 Telemetry
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devrunch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B8860B&icon_color=8B1A1A&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrunch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B8860B&langs_count=8" />
-
-<br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=devrunch&theme=tokyonight&hide_border=true&background=0d1117&ring=B8860B&fire=8B1A1A&currStreakLabel=B8860B" />
-
-<br>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=devrunch&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=B8860B&line=8B1A1A&point=ffffff&area=true" />
 
 <br>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=devrunch&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img width="70%" src="https://streak-stats.demolab.com?user=devrunch&theme=tokyonight&hide_border=true&background=0d1117&ring=B8860B&fire=8B1A1A&currStreakLabel=B8860B" />
 
 </div>
 
